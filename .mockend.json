@@ -1,5 +1,5 @@
-{"Product1":
-  {
+{"Products":{
+  "Product1":{
   "id": 1,
   "productName": "MiBand 5",
   "productDetails":"The smartwatch is great for fashion enthusiasts and comes at an affordable price. The smartwatch features a 1.1 inches AMOLED 2.5D colorful touchscreen that provides a resolution of 126 x 294 pixels.",
@@ -21,6 +21,6 @@
 "productDetails":"Adapts to your view: The extremely flexible, HP Pavilion x360 14 inch 2-in-1 Laptop PC will blow you away with its compact size. With four modes, you'll find just the right angle for anything that comes your way.",
 "Price":"₹53,990"
 }
-
+}
   
   }
